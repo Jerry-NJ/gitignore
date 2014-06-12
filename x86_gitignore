@@ -1,0 +1,89 @@
+#svn
+*.svn*
+
+#GitEye
+.project 
+
+# Object files
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+#Vi Edit
+*.swp
+
+#dhcp soft like
+*work.linux-2.2*
+
+
+#tmp files
+tags
+*.cmd
+*.mod
+*.mod.*
+*.symvers
+*.soT
+*.la
+*.lo
+*.slo
+*.lai
+*.order
+*.dist
+
+#bin files
+backupcontrol
+acpatch
+checkdaemon
+chkcheckdaemon
+cli
+conscap
+radeapclient
+igmpproxy
+ip
+rtmon
+tc
+*ntp-4.2.2*
+*openssh-5.5p1*
+*ppp-2.4.4*
+*pppoe-server*
+*pptp*
+syslogdc
+remotepcap
+*tcpdump-4.1.1*
+reportapinfo
+snmpd
+upgradereboot
+upgrade
+vsftpd
+watchdogfeed
+*zebra-0.95a*
+zwins
+*libpcap-1.1.1*
+*iproute2-2.6.9-jamal*
+*freeradius*
+*busybox-1.14.0*
+build.h
+ntpc
+configserver
+igw8021x
+*e1000e*
